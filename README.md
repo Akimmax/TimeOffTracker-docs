@@ -1,11 +1,9 @@
 # TimeOffTracker-docs
-TimeOffTracker-docs
-
-
-## Model of physical data organization (practical work No. 2) 
+Here are the diagrams wich describe TimeOffTracker project
+## Database Diagram (practical work No. 2) 
 ![Image 1](https://github.com/Akimmax/TimeOffTracker-docs/blob/master/Images/0.Database_Diagram.JPG)
 
-## Diagram of use cases (use cases) Use Case (practical work No. 3) 
+## Diagram of use cases (practical work No. 3) 
 ![Image 2](https://github.com/Akimmax/TimeOffTracker-docs/blob/master/Images/1.UseCases_Diagram.JPG)
 
 ## Activity diagrams (practical work No. 4)
